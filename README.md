@@ -1,6 +1,6 @@
 # 카트리그 개인전 데이터 위키
 
-오류나 요청사항은 인스타그램 @KartRanking 또는 이메일 kart.rider.ranking@gmail.com으로 연락 주세요!
+기초 데이터 파일은 https://github.com/Kartraning/KRSinglesData 에 있습니다. 오류나 요청사항은 인스타그램 @KartRanking 또는 이메일 kart.rider.ranking@gmail.com으로 연락 주세요!
 
 ## 시즌 35
 - [2022-12-10](2022_3_4_2)	2022-S 결승전 2세트, 3선승제.	
